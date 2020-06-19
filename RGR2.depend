@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1592588959 source:c:\users\пользователь\desktop\c-projects\rgr2\func.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstring>
+	<math.h>
+	<sstream>
+	<algorithm>
+	<list>
+	<vector>
+	<conio.h>
+	"func.h"
+
+1592588959 c:\users\пользователь\desktop\c-projects\rgr2\func.h
+	<iostream>
+	<fstream>
+	<string>
+	<cstring>
+	<math.h>
+	<sstream>
+	<algorithm>
+	<list>
+	<vector>
+	<conio.h>
+
+1592595585 source:c:\users\пользователь\desktop\c-projects\rgr2\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstring>
+	<math.h>
+	<sstream>
+	<algorithm>
+	<list>
+	<vector>
+	<conio.h>
+	"func.h"
+
